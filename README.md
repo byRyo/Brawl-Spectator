@@ -1,4 +1,4 @@
-# spectate by tag
+# Spectate by tag
 
 A small Brawl Stars Frida project that allows you to spectate players directly using their player tag.
 
